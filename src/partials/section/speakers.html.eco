@@ -1,7 +1,7 @@
 <h2 class="section-title"><%= @labels['speakers'] %></h2>
 <p>
   DevOps Days Austin organizers Ernest Mueller and Boyd Hemphill will be hosting
-  the event Friday and Saturday.
+  the event Friday and Saturday. 
 </p>
 <ul class="speakers-list">
 <% for speaker in @schedule: %>
@@ -26,3 +26,4 @@
   <% end %>
 <% end %>
 </ul>
+

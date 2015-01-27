@@ -8,7 +8,7 @@ module.exports = {
     // Conference info
     conf: {
       name: "Container Days Austin 2015",
-      description: "Nobody puts Boydy in the container.",
+      description: "High quality, local discussion on Docker, CoreOS, LXC etc.",
       date: "March 27 and 28, 2015",
       
       // If your event is free, just comment this line
@@ -39,6 +39,7 @@ module.exports = {
       'about',
       'location',
       'speakers',
+      'openspaces',
       'schedule',
       'sponsors',
       'partners',
@@ -50,6 +51,7 @@ module.exports = {
       about: "About",
       location: "Location",
       speakers: "Speakers",
+      openspaces: "Open Spaces",
       schedule: "Schedule",
       sponsors: "Sponsors",
       partners: "Partners",
@@ -160,7 +162,13 @@ module.exports = {
         name: "StackEngine",
         logo: "http://stackengine.com/wp-content/uploads/2014/04/StackEngine_Lo_FF1-e1398284107204.jpg",
         url: "http://stackengine.com/"
+      },
+      {
+        name: "Hawaiian Falls", 
+        logo: "http://www.hfalls.com/themes/hfallstest/images/hfalls-logo-pflugerville-on.png",
+        url: "http://www.hfalls.com/pflugerville/"
       }
+
     ],
 
     // List of Partners

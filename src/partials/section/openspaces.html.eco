@@ -1,0 +1,55 @@
+<style>
+    ul li { 
+        list-style-type: disc; 
+        padding-left: 5px;
+        margin-left: 30px;
+        font: normal normal 16px/1.2em helvetica, arial, sans-serif;
+    }
+</style>
+<h2 class="section-title"><%= @labels['openspaces'] %></h2>
+<p>
+    OpenSpace is a small set of rules that allow groups of people to interact in 
+    a simple, productive, organized way to create valuable dialogs that address 
+    the participants' most important issues.
+</p>
+<p>
+    The Fundamental "Rules" of the sessions that happen during OpenSpace 
+    conferences are:
+    <ul>
+        <li>Whoever shows up is the right group</li>
+        <li>Whatever happens is the only thing that could have</li>
+        <li>Whenever it starts is the right time</li>
+        <li>When it's over, it's over.</li>
+    </ul>
+</p>
+<p> 
+    To Lead an OpenSpace Talk:
+    <ul>
+        <li>Come up with an interesting topic and title for your discussion. 
+            While many ideas will be spontaneous, we want to encourage 
+            people to come with some preparation and thoughts on hands on
+            activities. AV will be provided in at least two of the spaces.</li>
+        <li>Fill out a schedule Post-It for your topic.</li>
+        <li>Place the topic on the schedule.</li>
+        <li>If you see topics that have something in common, consider 
+            combining them into a single time slot.</li>
+        <li>If a significant number of people want to attend your discussion 
+            and another discussion in the same time slot, try to 
+            trade into another time slot to ensure maximum dialog and 
+            participation.</li>
+    </ul>
+</p>
+<p>
+    To Attend an OpenSpace Talk
+    <ul>
+        <li>Check the schedule and sign up for a talk or just drop in 
+            if you wish</li>
+        <li>Use the 'Law of two feet.' If you feel that you are not 
+            contributing or benefiting from a presentation, please feel 
+            free to move on to something else.</li>
+        <li>Allow the discussion convener to steer his or her topic. 
+            If you have an opposing opinion that needs a full time slot 
+            you should feel free to add your own OpenSpace slot to discuss 
+            the topic.</li>
+    </ul>
+</p>
