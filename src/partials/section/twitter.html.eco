@@ -1,0 +1,8 @@
+<h2 class="section-title"><%= @labels['twitter'] %></h2>
+<p>
+Tweet at us using the hashtag #cdatx or follow Container Days on twitter at <a href="https://twitter.com/container_days">@container_days</a>
+</p>
+<div class="schedule-tbl">
+  <a class="twitter-timeline"  href="https://twitter.com/hashtag/cdatx" data-widget-id="567730569924997120" width="800" height="500">#cdatx Tweets</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
