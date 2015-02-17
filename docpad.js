@@ -43,7 +43,8 @@ module.exports = {
       'schedule',
       'sponsors',
       'partners',
-      'contact'
+      'contact',
+      'twitter'
     ],
 
     // Labels which you can translate to other languages
@@ -55,7 +56,8 @@ module.exports = {
       schedule: "Schedule",
       sponsors: "Sponsors",
       partners: "Partners",
-      contact: "Contact"
+      contact: "Contact",
+      twitter: "Twitter"
     },
 
     // The entire schedule
@@ -79,11 +81,12 @@ module.exports = {
         }
       },
       {
-        name: "Guest Speaker",
-        photo: "themes/yellow-swan/img/guestspeaker_yellow.jpg",
+        name: "Brian 'Redbeard' Harrington",
+        photo: "themes/yellow-swan/img/redbeard.jpg",
+        bio: "Brian is a principal architect at CoreOS.",
         presentation: {
           title: "Opening Guest Speaker",
-          description: "Our guest speaker is a respected pillar in the containerization field and is eager to share key insights and expertise.",
+          description: "Brian 'Redbeard' Harrington is a principal architect at CoreOS and will be talking about CoreOS and Rocket.",
           time: "Friday, 6:45pm"
         }
       },
@@ -118,12 +121,17 @@ module.exports = {
         }
       },
       {
-        name: "Guest Speaker",
-        photo: "themes/yellow-swan/img/guestspeaker_yellow.jpg",
+        name: "Gabriel Monroy",
+        photo: "themes/yellow-swan/img/gabemonroy.png",
+        bio: "Gabe is the creator of Deis and the CTO at OpDemand.",
         presentation: {
           title: "Day Two Guest Speaker",
-          description: "Our guest speaker is a respected pillar in the containerization field and is eager to share key insights and expertise.",
+          description: "Gabriel Monroy, the creator of Deis, and the CTO at OpDemand, will talk about the components and layers of a container ecosystem, laying the groundwork for openspaces through the day.",
           time: "Saturday, 9:30am"
+        },
+        link: {
+          href: "https://twitter.com/gabrtv",
+          text: "@gabrtv"
         }
       },
       {
