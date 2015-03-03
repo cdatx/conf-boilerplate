@@ -172,11 +172,30 @@ module.exports = {
         url: "http://stackengine.com/"
       },
       {
-        name: "Hawaiian Falls", 
+        name: "Hawaiian Falls",
         logo: "http://www.hfalls.com/themes/hfallstest/images/hfalls-logo-pflugerville-on.png",
         url: "http://www.hfalls.com/pflugerville/"
+      },
+      {
+        name: "W2O",
+        logo: "themes/yellow-swan/img/sponsor/w2o.jpg",
+        url: "http://w2ogroup.com/"
+      },
+      {
+        name: "Blue Box Cloud",
+        logo: "themes/yellow-swan/img/sponsor/bluebox.jpg",
+        url: "https://www.blueboxcloud.com"
+      },
+      {
+        name: "New Iron",
+        logo: "themes/yellow-swan/img/sponsor/newiron.png",
+        url: "http://www.newiron.com/"
+      },
+      {
+        name: "Thoughtworks",
+        logo: "themes/yellow-swan/img/sponsor/thoughtworks.jpg",
+        url: "http://www.thoughtworks.com/"
       }
-
     ],
 
     // List of Partners
