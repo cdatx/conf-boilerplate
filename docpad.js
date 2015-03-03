@@ -187,6 +187,11 @@ module.exports = {
         url: "https://www.blueboxcloud.com"
       },
       {
+        name: "Flux7",
+        logo: "themes/yellow-swan/img/sponsor/flux7.jpg",
+        url: "https://www.flux7.com"
+      },
+      {
         name: "New Iron",
         logo: "themes/yellow-swan/img/sponsor/newiron.png",
         url: "http://www.newiron.com/"
