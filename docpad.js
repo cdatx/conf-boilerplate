@@ -207,11 +207,6 @@ module.exports = {
         url: "http://www.newiron.com/"
       },
       {
-        name: "Glider Labs",
-        logo: "http://gliderlabs.com/images/gliderlabs.png",
-        url: "http://gliderlabs.com/"
-      },
-      {
         name: "Thoughtworks",
         logo: "themes/yellow-swan/img/sponsor/thoughtworks.jpg",
         url: "http://www.thoughtworks.com/"
