@@ -172,6 +172,11 @@ module.exports = {
         url: "http://stackengine.com/"
       },
       {
+        name: "CoreOS",
+        logo: "themes/yellow-swan/img/sponsor/coreos.png",
+        url: "https://coreos.com/"
+      },
+      {
         name: "Hawaiian Falls",
         logo: "http://www.hfalls.com/themes/hfallstest/images/hfalls-logo-pflugerville-on.png",
         url: "http://www.hfalls.com/pflugerville/"
@@ -189,7 +194,12 @@ module.exports = {
       {
         name: "Flux7",
         logo: "themes/yellow-swan/img/sponsor/flux7.jpg",
-        url: "https://www.flux7.com"
+        url: "http://flux7.com"
+      },
+      {
+        name: "Glider Labs",
+        logo: "themes/yellow-swan/img/sponsor/gliderlabs.jpeg",
+        url: "http://gliderlabs.com/"
       },
       {
         name: "New Iron",
