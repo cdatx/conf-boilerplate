@@ -41,6 +41,7 @@ module.exports = {
       'speakers',
       'openspaces',
       'schedule',
+      'workshop',
       'sponsors',
       'partners',
       'contact',
@@ -57,7 +58,8 @@ module.exports = {
       sponsors: "Sponsors",
       partners: "Partners",
       contact: "Contact",
-      twitter: "Twitter"
+      twitter: "Twitter",
+      workshop: "Workshop"
     },
 
     // The entire schedule
@@ -65,15 +67,15 @@ module.exports = {
       {
         name: "Dave Nielsen",
         photo: "themes/yellow-swan/img/davenielsen.jpg",
-        bio: "Cloud Computing Evangelist & Consultant,  Co-founder of CloudCamp.",
+        bio: "By day, Dave is a consultant helping firms engage with influential leaders in cloud-related communities. He is particularly fascinated by Cloud Computing APIs, Big Data & Platforms. By night, Dave is the co-founder of CloudCamp, a community of disruptive cloud enthusiasts and community organizers in cities around the world.",
         presentation: {
           title: "Hands-on Container Workshop (sponsored by Altoros)",
           description: "Bring your laptop and get ready to push. Dave Nielsen and a crack team of mentors are going to help you give birth to your first baby container. In the morning you will learn about the Docker CLI, Dockerfile, and how to push your image to a local Docker Registry. In the afternoon, you will learn how to deploy your container to multiple targets such as CoreOS, Cloud Foundry and AWS.",
           time: "Friday, 9:00am"
         },
         link: {
-          href: "",
-          text: "",
+          href: "https://twitter.com/davenielsen",
+          text: "@davenielsen",
         }
       },
       {
