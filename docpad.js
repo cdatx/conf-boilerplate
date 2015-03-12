@@ -10,7 +10,7 @@ module.exports = {
       name: "Container Days Austin 2015",
       description: "High quality, local discussion on Docker, CoreOS, LXC etc.",
       date: "March 27 and 28, 2015",
-      
+
       // If your event is free, just comment this line
       price: "$60",
       venue: "Hawaiian Falls",
@@ -62,6 +62,20 @@ module.exports = {
 
     // The entire schedule
     schedule: [
+      {
+        name: "Dave Nielsen",
+        photo: "themes/yellow-swan/img/davenielsen.jpg",
+        bio: "Cloud Computing Evangelist & Consultant,  Co-founder of CloudCamp.",
+        presentation: {
+          title: "Hands-on Container Workshop (sponsored by Altoros)",
+          description: "Bring your laptop and get ready to push. Dave Nielsen and a crack team of mentors are going to help you give birth to your first baby container. In the morning you will learn about the Docker CLI, Dockerfile, and how to push your image to a local Docker Registry. In the afternoon, you will learn how to deploy your container to multiple targets such as CoreOS, Cloud Foundry and AWS.",
+          time: "Friday, 9:00am"
+        },
+        link: {
+          href: "",
+          text: "",
+        }
+      },
       {
         name: "Sign In",
         time: "Friday, 6:00pm"
