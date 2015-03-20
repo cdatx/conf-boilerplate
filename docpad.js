@@ -223,9 +223,9 @@ module.exports = {
         url: "http://www.newiron.com/"
       },
       {
-        name: "Thoughtworks",
+        name: "Go Continuous Delivery",
         logo: "themes/yellow-swan/img/sponsor/thoughtworks.jpg",
-        url: "http://www.thoughtworks.com/"
+        url: "http://www.go.cd/"
       }
     ],
 
