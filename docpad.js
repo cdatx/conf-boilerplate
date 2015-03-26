@@ -226,6 +226,11 @@ module.exports = {
         name: "Go Continuous Delivery",
         logo: "themes/yellow-swan/img/sponsor/thoughtworks.jpg",
         url: "http://www.go.cd/"
+      },
+      {
+        name: "Altoros",
+        logo: "themes/yellow-swan/img/sponsor/altoros.png",
+        url: "http://www.altoros.com/"
       }
     ],
 
